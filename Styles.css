@@ -1,0 +1,29 @@
+.facebook-logo{
+    width: 50;
+}
+
+.LoginText{
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    border: 1px solid rgb(233, 233, 233);
+    border-radius: 5px;
+    color: #1d2129;
+}
+.LoginText:focus{
+    border-color: #1877f2;
+}
+.LoginBtn{
+    padding: 8px 9px;
+    margin: 10px;
+    width: 300px;
+    border: 1px solid rgb(199, 199, 199);
+    background-color:  #1877f2;
+    border-radius: 6px;
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+}
+
